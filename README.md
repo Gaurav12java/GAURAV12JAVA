@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Advanced React & Backend Integration**
 - 💼 I build clean, responsive and modern UI websites  
 - 💬 Ask me about **React, JavaScript, CSS, UI/UX**
-- 📧 Reach me at: **your-email@gmail.com**
+- 📧 Reach me at: **technicalgaurav597@gmail.com**
 - ⚡ Fun fact: I love building UI that feels fast ⚡
 
 ---
@@ -38,10 +38,10 @@
 ## 🌐 Connect With Me
 
 <div align="left">
-  <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+
+  <a href="www.linkedin.com/in/gauravmishra12"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:technicalgaurav597@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
